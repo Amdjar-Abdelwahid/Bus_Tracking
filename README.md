@@ -51,8 +51,8 @@ Ouvrir le dossier `frontend` dans Android Studio, synchroniser Gradle, puis lanc
 
 ## Structure du projet
 ```
-/Bus-Tracking-Backend      # Code source backend Node.js/Express
-/Bus-Tracking-App-Kotlin   # Application mobile Android Kotlin
+/Backend      # Code source backend Node.js/Express
+/Frontend  # Application mobile Android Kotlin
 README.md                  # Ce fichier
 ```
 
