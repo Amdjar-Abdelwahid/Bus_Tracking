@@ -41,13 +41,13 @@ Le système se compose de deux parties :
 ## Installation et exécution
 ### Backend
 ```bash
-cd Bus-Tracking-Backend
+cd backend
 npm install
 npm start
 ```
 
 ### Application mobile
-Ouvrir le dossier `Bus-Tracking-App-Kotlin` dans Android Studio, synchroniser Gradle, puis lancer sur un émulateur ou appareil Android.
+Ouvrir le dossier `frontend` dans Android Studio, synchroniser Gradle, puis lancer sur un émulateur ou appareil Android.
 
 ## Structure du projet
 ```
@@ -56,8 +56,6 @@ Ouvrir le dossier `Bus-Tracking-App-Kotlin` dans Android Studio, synchroniser Gr
 README.md                  # Ce fichier
 ```
 
-## Documentation
-Voir les fichiers `README.md` dans chaque sous-dossier pour plus de détails spécifiques à chaque composant.
 
 ## Support
 Pour toute question, suggestion ou bug, merci de contacter l'équipe projet (ajoutez votre email ici). 
